@@ -1,0 +1,8 @@
+{
+  "name": "Digital ID",
+  "short_name": "ID Card",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a"
+}

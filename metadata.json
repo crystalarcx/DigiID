@@ -1,0 +1,6 @@
+{
+  "name": "Digital ID Card",
+  "description": "A realistic customizable digital ID card and pass wallet optimized for mobile devices with barcode, live clock, and anti-screenshot features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
